@@ -1,3 +1,3 @@
 # my-projects
-This is my first Github repo. "\n"
+This is my first Github repo. 
 Author - Vishwas Kumar S S
