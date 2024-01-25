@@ -1,0 +1,42 @@
+    
+* { 
+    background-color: #231942;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div
+{
+    width: 25%; height: fit-content;
+    position: absolute; top:15%;
+    text-align: center;
+    font-style: italic;
+    font-size:x-large;
+    line-height: 1.5;
+    padding: 3%;
+    border-width: thick;
+}
+
+#first
+{
+    left:10% ;
+    display: inline-block;
+    font-weight: 500; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffbe0b; background-color: #780000;
+    border-style: double; border-color: yellow;
+    
+}
+
+ #second
+ {
+    padding: 5%;
+    right:15%; top:5%;  
+    display: inline-block;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    color: #7fffd4; background-color:midnightblue  ;
+    border: dotted darkorange; border-radius: 50%;
+}
+
